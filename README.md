@@ -1,7 +1,7 @@
 # 🐍 Snake Game (HTML)
 ## 🖼️ תמונה מהמשחק
 
-![Game Screenshot](Game%20picture.png)
+![Snake Game Thumbnail](Snake%20Game%20Thumbnail.png)
 
 משחק סנייק פשוט ומהיר שנכתב ב-HTML, CSS ו-JavaScript.
 מותאם למחשב וגם לטלפון (כולל כפתורי שליטה ומגע).
